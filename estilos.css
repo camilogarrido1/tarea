@@ -1,0 +1,20 @@
+.alinear_flex{
+    display: flex; 
+    justify-content: center;
+}
+
+
+.Centrar{
+    text-align: center;
+}
+
+.insertar_flex{
+    display: flex;
+    justify-content: center;
+}
+
+.colocar_flex{
+    display: flex;
+    justify-content: center;
+}
+
